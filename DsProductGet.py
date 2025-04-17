@@ -8,9 +8,9 @@ from iop.base import IopRequest
 
 #instance = IopClient(url, appkey, appSecret)
 url = "https://api-sg.aliexpress.com/sync"
-appkey = "506878"
-appSecret = "KWaMLPE3gZ87lp3492NvhgNvlxU9R04E"
-access_token = "50000500433zEYZZqMevgLBp1NUaazG1gkvCsQefBAyBl1ec73540tzEfgjZelqJbrgF";
+appkey = ""
+appSecret = ""
+access_token = "";
 # 创建客户端实例
 client = IopClient(url, appkey, appSecret)
 # 创建请求实例
